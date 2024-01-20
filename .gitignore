@@ -1,0 +1,10 @@
+/node_modules
+/tmp
+/temp
+/download
+/.wwebjs_cache
+/.wwebjs_auth
+.env
+DownloadFileToken.json
+oauthCredentials.json
+serviceAccountKey.json

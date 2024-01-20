@@ -1,0 +1,35 @@
+{
+  "name": "bothakcipta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --inspect index.js",
+    "dev": "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.0",
+    "cli-spinners": "^2.9.2",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "firebase": "^9.15.0",
+    "firebase-admin": "^11.5.0",
+    "google-auth-library": "^9.0.0",
+    "googleapis": "^126.0.1",
+    "jspdf": "^2.5.1",
+    "jsqr": "^1.4.0",
+    "nodemailer": "^6.9.7",
+    "ora": "^7.0.1",
+    "path": "^0.12.7",
+    "pdf-poppler": "^0.2.1",
+    "pngjs": "^7.0.0",
+    "puppeteer": "^19.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "simple-spinner": "^0.0.5",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
